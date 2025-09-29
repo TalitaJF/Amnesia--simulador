@@ -1,7 +1,7 @@
-# Simulações de Arquitetura — Amnesia (Trabalhos de Arquitetura 3)
+# Simulações de Arquitetura — Amnesia (Trabalho 1 de Arquitetura 3)
 
 **Resumo**  
-Este repositório contém configurações, traces e relatórios para experimentos com o simulador **Amnesia** — estudando hierarquia de memória, cache, memória virtual, TLB, políticas de substituição e localidade*.
+Este repositório contém configurações, traces e relatórios para experimentos com o simulador **Amnesia** — estudando hierarquia de memória, cache, memória virtual, TLB, políticas de substituição e localidade.
 
 
 ## Visão Geral
